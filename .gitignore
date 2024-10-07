@@ -4,6 +4,7 @@
 #
 # Binaries for programs and plugins
 tmp/
+*/tmp/
 .idea
 *.exe
 *.exe~
@@ -26,4 +27,4 @@ go.work.sum
 
 # env file
 .env
-/ch0/.idea/
+/*/.idea/
